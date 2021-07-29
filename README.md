@@ -1,3 +1,12 @@
+# INSTALLATION
+
+All commands are run from the root of the project, from a terminal:
+
+| Command         | Action                                      |
+|:----------------|:--------------------------------------------|
+| `npm install`   | Installs dependencies                       |
+| `npm start`     | Starts local dev server at `localhost:3000` |
+
 # Svelte + Vite
 
 This template should help get you started developing with Svelte in Vite.
