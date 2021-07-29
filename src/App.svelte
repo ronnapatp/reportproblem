@@ -1,5 +1,5 @@
 <script>
-  import home from './assets/home.png'
+
   import Counter from './lib/Counter.svelte'
 </script>
 
